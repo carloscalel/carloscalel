@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Langs](https://github-readme-stats.vercel.app/api/langs/?username=carloscalel&hide=javascript,html)](https://github.com/carloscalel/github-readme-stats)
+## 📈My statistics
+|[![Top Langs](https://github-readme-stats.carloscalel.app/api/top-langs/?username=carloscalel&show_icons=true&theme=city_lights)](https://github.com/carloscalel/github-readme-stats)|![Estadisticas GitHub Carlos Calel](https://github-readme-stats.vercel.app/api?username=carloscalel&show_icons=true&theme=city_lights)|
+|---|---|
