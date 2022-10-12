@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## 📈My statistics
-|[![Top Langs](https://github-readme-stats.carloscalel.app/api/top-langs/?username=carloscalel&show_icons=true&theme=city_lights)](https://github.com/carloscalel/github-readme-stats)|![Estadisticas GitHub Carlos Calel](https://github-readme-stats.vercel.app/api?username=carloscalel&show_icons=true&theme=city_lights)|
+|[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscalel&show_icons=true&theme=city_lights)](https://github.com/carloscalel/github-readme-stats)|![Estadisticas GitHub CarlosCalel](https://github-readme-stats.vercel.app/api?username=carloscalel&show_icons=true&theme=city_lights)|
 |---|---|
