@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## 📈Mis Estadisticas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscalel&layout=10)](https://github.com/carloscalel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloscalel&langs_count=10)](https://github.com/carloscalel/github-readme-stats)
