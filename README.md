@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋, soy Carlos Calel</h1>Add commentMore actions
+<h1 align="center">Hola 👋, soy Carlos Calel</h1>
 <h3 align="center">un apasionado desarrollador autodidacta, estudiante de Ingenieria en Sistemas, mi objetivo es crecer como profesional, alcanzar un alto nivel de mis habilidades y desempeñar un papel en la arquitectura de software para crear grandes aplicaciones. Trabajo en equipo, comunicación, resolución de problemas y orientación a los detalles son habilidades que me permiten hacer un excelente trabajo.</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
