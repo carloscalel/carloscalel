@@ -12,10 +12,6 @@
   <!-- Visual Basic (no hay icono oficial en devicon, uso icono genérico de visual basic) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasic" width="40" height="40"/>
   
-  <!-- Visual Basic 12 y Visual Basic Web no tienen iconos específicos, se puede repetir el icono de Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasic12" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasicweb" width="40" height="40"/>
-  
   <!-- ASP.NET -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspnet/aspnet-original.svg" alt="aspnet" width="40" height="40"/>
 
