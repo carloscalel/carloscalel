@@ -12,12 +12,6 @@
   <!-- Visual Basic -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasic" width="40" height="40"/>
 
-  <!-- Visual Basic 12 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasic12" width="40" height="40"/>
-
-  <!-- Visual Basic Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualbasicweb" width="40" height="40"/>
-
   <!-- ASP.NET (icono alternativo en PNG) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/ASP.NET_Logo.png" alt="aspnet" width="40" height="40"/>
 
