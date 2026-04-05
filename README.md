@@ -60,6 +60,6 @@ Construir una plataforma completa tipo **Datadog para bases de datos**
 
 ---
 
-## 📫 Contacto
-
-* LinkedIn: (pon tu link aquí)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-Expert-red)
+![C#](https://img.shields.io/badge/C%23-Advanced-blue)
+![.NET](https://img.shields.io/badge/.NET-Backend-purple)
